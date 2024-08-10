@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "806844618259",
+    "project_id": "next-gen-74543",
+    "storage_bucket": "next-gen-74543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806844618259:android:a2cad31b353fc6a72951e6",
+        "android_client_info": {
+          "package_name": "com.fallgan.customerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitn6O8KPyQ9qGjvh9Tgn3-PJNm15xiBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806844618259:android:33a8b5398cecb13b2951e6",
+        "android_client_info": {
+          "package_name": "com.fallgan.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitn6O8KPyQ9qGjvh9Tgn3-PJNm15xiBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806844618259:android:fc147a397ed084cc2951e6",
+        "android_client_info": {
+          "package_name": "com.nextgen.nextgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitn6O8KPyQ9qGjvh9Tgn3-PJNm15xiBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
